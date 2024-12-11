@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -27,3 +29,30 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### General Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### Gradle ###
+.gradle/
+build/
+
+### Maven ###
+target/
+
+### Temporary Files ###
+*.tmp
+*.swp
+
+### Test Output ###
+test-output/
+.coverage/
+
+### Operating System ###
+Thumbs.db
