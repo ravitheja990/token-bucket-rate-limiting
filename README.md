@@ -9,7 +9,7 @@ A Java implementation of the token bucket algorithm for rate limiting. It suppor
 - Simple and lightweight.
 
 
-###Notes
+## Notes
 - Not thread-safe; synchronization is required for concurrent use.
 - Designed for lightweight use cases.
 
